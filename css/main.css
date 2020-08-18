@@ -1526,9 +1526,11 @@ header .logo a {
 	width: 35rem;
 	float: left;
   }
-  .chapter{color: #313131;
+  .chapter{
+	  color: #313131;
 	font-family: "poppins-medium", sans-serif;
-font-size: 1.5rem;}
+font-size: 1.5rem;
+}
   
 p.tech{
 	font-style: italic;
