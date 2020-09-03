@@ -1514,6 +1514,14 @@ header .logo a {
 } */
 
 /* new one */
+
+.col-lg-6,.col-md-12,.col-sm-12{
+	position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
 .about-left img {
 	
 	outline: 8px solid #777;
@@ -1606,8 +1614,8 @@ p.tech{
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 7.8rem;
-		width: 7.8rem;
+		height: 45rem;
+		width: 35rem;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
@@ -1632,8 +1640,8 @@ p.tech{
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 45rem;
+		width: 35rem;
 		float: none;
 		display: inline-block;
 	}
